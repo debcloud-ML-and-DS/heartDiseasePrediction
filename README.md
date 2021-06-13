@@ -1,8 +1,8 @@
 ## Objective
-The Aim of this project is to build a machine learning model to predict if a perform have heart disease or not.
+The Aim of this project is to build a machine learning model to predict if a person have heart disease or not.
 
 ## Lagorithms used
-Random Forest
+RandomForestClassifier
 
 ## Hyperparameter tuning technique
 * RandomizedSearchCV
